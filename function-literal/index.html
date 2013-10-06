@@ -1,0 +1,36 @@
+---
+layout: default
+title: Function Literal
+---
+
+<div id="home">
+  {% for post in paginator.posts %}
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt }}</p>
+
+    {% if post.moar %}
+      <a href="{{ post.url }}">moar &rarr;</a>
+    {% endif%}
+
+    {% unless forloop.last %}
+      <hr>
+    {% endunless %}
+  {% endfor %}
+</div>
+
+<hr>
+
+<!-- Pagination links -->
+<div class="pagination">
+
+  {% if paginator.page == 1 %}
+  {% else if paginator.page != 1 and paginator.previous_page > 1 %}
+    <a href="/page{{ paginator.previous_page }}" class="previous">&laquo; Previous</a>
+  {% else if paginator.previous_page == 1 %}
+    <a href="/" class="previous">&laquo; Previous</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">Next &raquo;</a>
+  {% endif %}
+</div>
