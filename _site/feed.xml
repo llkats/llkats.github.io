@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Function Literal</title>
+		<description>Where I talk about code and stuff</description>
+		<link>http://llkats.github.io</link>
+		<atom:link href="http://llkats.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>New Beginnings, New Blog</title>
+				<description>&lt;p&gt;The easy part is creating a blog in Jekyll, integrating a &lt;a href=&quot;http://house.github.io/tea/&quot;&gt;beautiful theme&lt;/a&gt; by &lt;a href=&quot;http://twitter.com/house&quot;&gt;Allison House&lt;/a&gt;, and putting it on Github.&lt;/p&gt;
+
+&lt;p&gt;The hard part is writing the blog.&lt;/p&gt;
+
+&lt;p&gt;Welcome back to Function Literal. Hello world, indeed.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 06 Oct 2013 06:53:00 -0700</pubDate>
+				<link>http://llkats.github.io/hello/world/2013/10/06/new-beginnings-new-blog.html</link>
+				<guid isPermaLink="true">http://llkats.github.io/hello/world/2013/10/06/new-beginnings-new-blog.html</guid>
+			</item>
+		
+	</channel>
+</rss>
