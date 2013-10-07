@@ -1,0 +1,27 @@
+.pagination {
+  clear: both;
+  height: 35px;
+  margin: 40px 0 0px;
+}
+
+.pagination .previous, .pagination .next {
+  color: #666;
+  font-size: 24px;
+}
+
+.pagination .previous {
+  float: left;
+}
+
+.pagination .next {
+  float: right;
+}
+
+footer {
+  clear: both;
+  margin-top: 80px;
+}
+
+/*footer hr {
+  margin: 40px auto;
+}*/
