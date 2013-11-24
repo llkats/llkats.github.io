@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Sample Post"
+date:   2013-10-15 19:22:00
+categories: biking voices words
+moar: false
+---
+
+It's funny that when I'm on my bike, I forget to use my voice. As I ride, I'm watching and looking and signaling with big arm gestures; my blinky lights are always on at night, and I try to remember to wear bright clothing.
+
+
+* Luxury as the ability to go to book readings in the Mission
+* Railing against the techies when it seems the larger problem has been the neglect of San Francisco's growth and infrastructure; hindering and ignoring it to languish
+* Fragility of life: the Irish Buddhist talk, cars vs. bikes
+* What stories can I tell in code or algorithms?
+* writing tests + multiple firing backbone functions == events not being unbound
+* art of code in public; murals, chalk, spraypaint
