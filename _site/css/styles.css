@@ -40,6 +40,9 @@ hr                { border: 0;
                     width: 80px;
                     background: #999;
                     }
+.whatsmyname      { color: #222;
+                    font-weight: 600;
+                  }
 
 
 /*--------------------------------
@@ -143,13 +146,13 @@ header hr {
   background: #999;
 }
 
-.downloads ul, #content, footer {
+.downloads ul, #content {
   max-width: 700px;
   padding: 0 60px;
   margin: 0 auto;
 }
 
-.downloads {
+.downloads, footer {
   width: 100%;
   background: #f5f5f5;
   padding: 1.5em 0;
@@ -185,7 +188,7 @@ header hr {
 }
 
 footer {
-  margin-bottom: 4em;
+  padding: 4em 0;
   font-style: italic;
   text-align: center;
 }
