@@ -7,6 +7,33 @@
 		<atom:link href="http://llkats.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>gather the singletons</title>
+				<description>&lt;p&gt;It&amp;#39;s been two and a half years since I moved to San Francisco, and going to the Google SF office is no big deal anymore.&lt;/p&gt;
+
+&lt;p&gt;That was a funny realization -- it used to be such a big deal. But I walked in to a meetup last week feeling like I belonged there. And I did. I&amp;#39;ve visited the Google SF offices a few times; I&amp;#39;ve been to bunches of meetups at this point; I&amp;#39;ve been a professional front end engineer for nearly four years; I can hold my own in a conversation; I have no problem helping myself to free snacks and wine.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;So I was hanging out with my SO, eating snacks and drinking wine, and I looked across the room at the woman who had ridden the elevator up with us. She was sitting by herself, studying her phone. A singleton to whom no one paid much attention.&lt;/p&gt;
+
+&lt;p&gt;It brought me right back to when I walked in to my first JS meetup in Chicago. I was just a student. I barely knew HTML and CSS, much less Javascript. The entire room was filled with men. I didn&amp;#39;t know what to expect, but I was crippled with doubt and anxiety. I felt like I stuck out like a sore thumb, and as the only woman in the room, I did. This was before I&amp;#39;d learned the confidence to turn to my neighbor and stick out my hand and introduce myself. Long before I realized that I belonged there as much as anyone and could carry that feeling into any situation I went into. Some guys glanced in my direction, but no one said anything to me. I slunk out as soon as the talks were done. I never went back.&lt;/p&gt;
+
+&lt;p&gt;In that moment of hindsight, I realized what I should do. I got up without thinking too much about it, walked right over to her, and introduced myself. I asked her if she wanted to sit with us. She said yes without hesitation.&lt;/p&gt;
+
+&lt;p&gt;It takes a huge measure of doing to walk into a new place and go up to any random stranger and just start talking. Especially if you&amp;#39;re a student, a newbie, a rando who&amp;#39;s never proved herself or written anything of consequence. (At least, that&amp;#39;s what you might think about yourself.) It&amp;#39;s enough to go to that strange place and take a snack or two and then just sit by oneself in the corner. That&amp;#39;s more than enough for one adventure. &lt;/p&gt;
+
+&lt;p&gt;Offering someone your name, inviting someone to join you -- it&amp;#39;s more than a courtesy. It&amp;#39;s a direct introduction into what feels like a very closed and very exclusive world.&lt;/p&gt;
+
+&lt;p&gt;A few more people joined us; friends of my SO, and their friends. When I saw another woman sit by herself, I went and gathered her into our group too. Both of those singletons lit up when I spoke to them; there was relief and excitement. They wanted to talk JS and meetups and living in the Bay Area, all the normal things one talks about at a meetup. They just needed a handhold, an opening. A single introduction. The feeling like they belonged. It was a simple gesture for me, but I think it really made a difference in both of their experiences that night.&lt;/p&gt;
+
+&lt;p&gt;I think it&amp;#39;s important to remember the immense amount of courage someone needs in order to come to a meetup by his or herself. I think it&amp;#39;s important for established members in a programming community to make the next step easier: to welcome these singletons into our small groups, kickstart their senses of confidence, and teach them that they, too, belong.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 10 Jan 2014 14:50:00 -0800</pubDate>
+				<link>http://llkats.github.io/thoughts,/meetups,/developer/culture/2014/01/10/gather-the-singletons.html</link>
+				<guid isPermaLink="true">http://llkats.github.io/thoughts,/meetups,/developer/culture/2014/01/10/gather-the-singletons.html</guid>
+			</item>
+		
+			<item>
 				<title>claiming the pavement</title>
 				<description>&lt;p&gt;In California, bicyclists are legally allowed to take an entire lane to themselves. This is to ensure that a cyclist can always move out of danger if necessary; can take safe left turns with the flow of traffic; can move like a vehicle (albeit a slow-moving one).&lt;/p&gt;
 
@@ -24,9 +51,9 @@
 
 &lt;p&gt;Moreover, I wasn&amp;#39;t afraid. I was just there, on the pavement, claiming my space.&lt;/p&gt;
 </description>
-				<pubDate>Fri, 10 Jan 2014 14:50:00 +0000</pubDate>
-				<link>http://llkats.github.io/thoughts,/bikes,/interdependency/2014/01/10/2014-01-06-claiming-pavement.html</link>
-				<guid isPermaLink="true">http://llkats.github.io/thoughts,/bikes,/interdependency/2014/01/10/2014-01-06-claiming-pavement.html</guid>
+				<pubDate>Fri, 10 Jan 2014 14:50:00 -0800</pubDate>
+				<link>http://llkats.github.io/thoughts,/bikes,/interdependency/2014/01/10/claiming-pavement.html</link>
+				<guid isPermaLink="true">http://llkats.github.io/thoughts,/bikes,/interdependency/2014/01/10/claiming-pavement.html</guid>
 			</item>
 		
 			<item>
@@ -58,7 +85,7 @@
 
 &lt;p&gt;And, in the end, I don&amp;#39;t think I missed a whole lot. Though I am dying to get back on meatspace. Right after I finish this book.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 24 Nov 2013 13:33:00 +0000</pubDate>
+				<pubDate>Sun, 24 Nov 2013 13:33:00 -0800</pubDate>
 				<link>http://llkats.github.io/internet/2013/11/24/disconnection.html</link>
 				<guid isPermaLink="true">http://llkats.github.io/internet/2013/11/24/disconnection.html</guid>
 			</item>
@@ -77,27 +104,9 @@
 
 &lt;p&gt;These little epiphanies are what keep me coming back to meditation.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 10 Nov 2013 23:36:00 +0000</pubDate>
+				<pubDate>Sun, 10 Nov 2013 23:36:00 -0800</pubDate>
 				<link>http://llkats.github.io/meditation/2013/11/10/little-epiphanies.html</link>
 				<guid isPermaLink="true">http://llkats.github.io/meditation/2013/11/10/little-epiphanies.html</guid>
-			</item>
-		
-			<item>
-				<title>Sample Post</title>
-				<description>&lt;p&gt;It&amp;#39;s funny that when I&amp;#39;m on my bike, I forget to use my voice. As I ride, I&amp;#39;m watching and looking and signaling with big arm gestures; my blinky lights are always on at night, and I try to remember to wear bright clothing.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Luxury as the ability to go to book readings in the Mission&lt;/li&gt;
-&lt;li&gt;Railing against the techies when it seems the larger problem has been the neglect of San Francisco&amp;#39;s growth and infrastructure; hindering and ignoring it to languish&lt;/li&gt;
-&lt;li&gt;Fragility of life: the Irish Buddhist talk, cars vs. bikes&lt;/li&gt;
-&lt;li&gt;What stories can I tell in code or algorithms?&lt;/li&gt;
-&lt;li&gt;writing tests + multiple firing backbone functions == events not being unbound&lt;/li&gt;
-&lt;li&gt;art of code in public; murals, chalk, spraypaint&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				<pubDate>Tue, 15 Oct 2013 19:22:00 +0000</pubDate>
-				<link>http://llkats.github.io/biking/voices/words/2013/10/15/2013-10-15-draft1.html</link>
-				<guid isPermaLink="true">http://llkats.github.io/biking/voices/words/2013/10/15/2013-10-15-draft1.html</guid>
 			</item>
 		
 			<item>
@@ -108,20 +117,9 @@
 
 &lt;p&gt;Welcome back to Function Literal. Hello world, indeed.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 06 Oct 2013 13:53:00 +0000</pubDate>
+				<pubDate>Sun, 06 Oct 2013 13:53:00 -0700</pubDate>
 				<link>http://llkats.github.io/hello/world/2013/10/06/new-beginnings-new-blog.html</link>
 				<guid isPermaLink="true">http://llkats.github.io/hello/world/2013/10/06/new-beginnings-new-blog.html</guid>
-			</item>
-		
-			<item>
-				<title>Sample Post</title>
-				<description>&lt;p&gt;Testing testing&lt;/p&gt;
-
-&lt;p&gt;Does this thing work?&lt;/p&gt;
-</description>
-				<pubDate>Wed, 02 Oct 2013 15:22:00 +0000</pubDate>
-				<link>http://llkats.github.io/testing/2013/10/02/2013-10-02-another-post.html</link>
-				<guid isPermaLink="true">http://llkats.github.io/testing/2013/10/02/2013-10-02-another-post.html</guid>
 			</item>
 		
 	</channel>
