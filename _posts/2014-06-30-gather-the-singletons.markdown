@@ -7,6 +7,8 @@ url: /2014/01/10/gather-the-singletons.html
 moar: true
 ---
 
+_(Editor's note: This post was actually published Monday, June 30th, 2014, but now I don't want to change the url. Herp derp Jekyll.)_
+
 It's been two and a half years since I moved to San Francisco, and going to the Google SF office is no big deal anymore.
 
 That was a funny realization -- it used to be such a big deal. But I walked in to a meetup last week feeling like I belonged there. And I did. I've visited the Google SF offices a few times; I've been to bunches of meetups at this point; I've been a professional front end engineer for nearly four years; I can hold my own in a conversation; I have no problem helping myself to free snacks and wine.
