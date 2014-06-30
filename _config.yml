@@ -5,3 +5,5 @@ paginate: 4
 excerpt_separator: <!-- more -->
 description: Where I talk about code and stuff
 url: http://llkats.github.io
+
+permalink: /:year/:month/:day/:title

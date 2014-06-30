@@ -3,6 +3,7 @@ layout: post
 title:  "gather the singletons"
 date:   2014-01-10 14:50:00
 categories: thoughts, meetups, developer culture
+url: /2014/01/10/gather-the-singletons.html
 moar: true
 ---
 
