@@ -11,10 +11,16 @@ We had the inaugural event for the San Francisco chapter of NodeSchool this past
 
 <!-- more -->
 
+I became aware of the San Francisco chapter's creation when I was tagged in on the initial issue in the central NodeSchool repository. There was a lot of initial discussion, but once we had a date and venue for our first event, we got a repository set up. From there, based on my experience with other projects, it seemed pretty easy to start creating issues and making tasks.
+
+It's a little difficult to develop a site by committee, so I went ahead and forked an existing NodeSchool site, adapted its text, and pushed it live. It wasn't perfect by any means, but having something rudimentary meant that I could create tasks and divvy up the effort. Everything from design to site copy to creating social media accounts became things that people could pitch in on when they had the time. In this case, perfection was the enemy of community involvement.
+
+When someone is looking for experience in tech or open source, figuring out exactly _how_ to pitch in can be really daunting. It's important for people already in the community to identify ways beginners can get started. Here are just some the tasks I discovered were available:
+
 ## Opportunities for Involvement
-- filing and organizing GitHub issues (clearest way for others to know what needs doing)
+- filing and organizing GitHub issues
 - designing the chapter's home website
-- developing the website (relatively simply GitHub Pages flat site)
+- developing the website
 - writing and editing website copy
 - organizing ticket signups
 - running social media and outreach
@@ -26,4 +32,12 @@ We had the inaugural event for the San Francisco chapter of NodeSchool this past
 - improving documentation
 - improving workshopper exercises
 
-Some of these tasks involve knowledge of Git, GitHub, and general (mostly front-end) development knowledge. Others are fairly non-technical.
+Some of these tasks involve knowledge of Git, GitHub, and general (mostly front-end) development knowledge. Others are fairly non-technical. Some of them seem pretty mundane or logistical, but most were mediated through GitHub, and so have some utility in open source practice. All of these tasks were super important to the success of the event, and I can't recommend getting involved enough.
+
+## Soliciting Involvement
+
+If you are starting a NodeSchool chapter or running a current one, I'm positive you know some people (who might know some people) who would love to get experience contributing to open source. Prerequisite knowledge might involve some cursory understanding of how the GitHub pages work, and introductory information on GitHub could be included on chapter homepages.
+
+During the events themselves, we could gather feedback on pain points with workshoppers, installation, and other technical problems. The day after our event, an attendee emailed me with a link to the pull request she made for the `streams-adventure` workshopper, re-wording one of the modules that we both spent an undue amount of time trying to understand. When attendees themselves feel empowered to help improve the learning experience, everyone wins.
+
+All in all, I think it's really important to highlight ways in which our community can get involved. The more we are clear about the needs of our organizations in a way that beginners can grok without intimidation, the more people we will see get involved. And that's the best part of all.
