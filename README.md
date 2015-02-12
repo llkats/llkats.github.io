@@ -2,3 +2,7 @@
 ## It's called "Function Literal"
 
 Welcome.
+
+### Notes to Myself
+
+- If you're trying to update Jekyll or whatever, try running `bundle update github-pages` first. Good luck.
