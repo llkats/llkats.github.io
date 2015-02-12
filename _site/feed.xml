@@ -7,6 +7,51 @@
 		<atom:link href="http://llkats.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>nodeschool sf recap</title>
+				<description>&lt;p&gt;We had the inaugural event for the San Francisco chapter of NodeSchool this past Saturday. While NodeSchool events have been held in SF before, this event marked the first formal establishment of an SF-based chapter. As with any  event where one teaches others, I ended up learning a lot as well. I was especially impressed with the self-organization of the event and its associated website, the initiative of both seasoned and beginning contributors, and the overall opportunities for involvement with the whole event. &lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;I became aware of the San Francisco chapter&amp;#39;s creation when I was tagged in on the initial issue in the central NodeSchool repository. Once we had a date and venue for our first event, we got a dedicated GitHub repository set up. From there, based on my experience with other projects, it seemed pretty easy to start creating issues and making tasks.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s a little difficult to develop a site by committee, so I went ahead and forked an existing NodeSchool site, adapted its text, and pushed it live. It wasn&amp;#39;t perfect by any means, but having something rudimentary meant that I could create tasks and divvy up the effort. Everything from design to site copy to creating social media accounts became things that people could pitch in on when they had the time. In this case, perfection was the enemy of community involvement.&lt;/p&gt;
+
+&lt;p&gt;When someone is looking for experience in tech or open source, figuring out exactly &lt;em&gt;how&lt;/em&gt; to pitch in can be really daunting. It&amp;#39;s important for people already in the community to identify ways beginners can get started. Here are just some the tasks I discovered were available:&lt;/p&gt;
+
+&lt;h2&gt;Opportunities for Involvement&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;filing and organizing GitHub issues&lt;/li&gt;
+&lt;li&gt;designing the chapter&amp;#39;s home website&lt;/li&gt;
+&lt;li&gt;developing the website&lt;/li&gt;
+&lt;li&gt;writing and editing website copy&lt;/li&gt;
+&lt;li&gt;organizing ticket signups&lt;/li&gt;
+&lt;li&gt;running social media and outreach&lt;/li&gt;
+&lt;li&gt;finding and reserving a venue&lt;/li&gt;
+&lt;li&gt;supervising on the day of the event (coordinating with building management, making announcements, letting people know where the bathrooms are, enforcing the CoC, cleaning up afterwards, etc.)&lt;/li&gt;
+&lt;li&gt;mentoring&lt;/li&gt;
+&lt;li&gt;participating&lt;/li&gt;
+&lt;li&gt;giving feedback&lt;/li&gt;
+&lt;li&gt;improving documentation&lt;/li&gt;
+&lt;li&gt;improving workshopper exercises&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some of these tasks involve knowledge of Git, GitHub, and general (mostly front-end) development knowledge. Others are fairly non-technical. Some of them seem pretty mundane or logistical, but most were mediated through GitHub, and so have some utility in open source practice. All of these tasks were super important to the success of the event, and I can&amp;#39;t recommend getting involved enough.&lt;/p&gt;
+
+&lt;h2&gt;Soliciting Involvement&lt;/h2&gt;
+
+&lt;p&gt;If you are starting a NodeSchool chapter or running a current one, I&amp;#39;m positive you know some people (who might know some people) who would love to get experience contributing to open source. Prerequisite knowledge might involve some cursory understanding of how the GitHub pages work, and introductory information on GitHub could be included on chapter homepages.&lt;/p&gt;
+
+&lt;p&gt;During the events themselves, we could gather feedback on pain points with workshoppers, installation, and other technical problems. The day after our event, an attendee emailed me with a link to the pull request she made for the &lt;code&gt;streams-adventure&lt;/code&gt; workshopper, re-wording one of the modules that we both spent an undue amount of time trying to understand. When attendees themselves feel empowered to help improve the learning experience, everyone wins.&lt;/p&gt;
+
+&lt;p&gt;All in all, I think it&amp;#39;s really important to highlight ways in which our community can get involved. The more we are clear about the needs of our organizations in a way that beginners can grok without intimidation, the more people we will see get involved. And that&amp;#39;s the best part of all.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 11 Feb 2015 14:13:00 -0800</pubDate>
+				<link>http://llkats.github.io/2015/02/11/nodeschool-recap</link>
+				<guid isPermaLink="true">http://llkats.github.io/2015/02/11/nodeschool-recap</guid>
+			</item>
+		
+			<item>
 				<title>gather the singletons</title>
 				<description>&lt;p&gt;&lt;em&gt;(Editor&amp;#39;s note: This post was actually published Monday, June 30th, 2014, but now I don&amp;#39;t want to change the url. Herp derp Jekyll.)&lt;/em&gt;&lt;/p&gt;
 
@@ -30,7 +75,7 @@
 
 &lt;p&gt;I think it&amp;#39;s important to remember the immense amount of courage someone needs in order to come to a meetup by his or herself. I think it&amp;#39;s important for established members in a programming community to make the next step easier: to welcome these singletons into our small groups, kickstart their senses of confidence, and teach them that they, too, belong.&lt;/p&gt;
 </description>
-				<pubDate>Fri, 10 Jan 2014 14:50:00 -0800</pubDate>
+				<pubDate>Fri, 10 Jan 2014 06:50:00 -0800</pubDate>
 				<link>http://llkats.github.io/2014/01/10/gather-the-singletons</link>
 				<guid isPermaLink="true">http://llkats.github.io/2014/01/10/gather-the-singletons</guid>
 			</item>
@@ -53,7 +98,7 @@
 
 &lt;p&gt;Moreover, I wasn&amp;#39;t afraid. I was just there, on the pavement, claiming my space.&lt;/p&gt;
 </description>
-				<pubDate>Fri, 10 Jan 2014 14:50:00 -0800</pubDate>
+				<pubDate>Fri, 10 Jan 2014 06:50:00 -0800</pubDate>
 				<link>http://llkats.github.io/2014/01/10/claiming-pavement</link>
 				<guid isPermaLink="true">http://llkats.github.io/2014/01/10/claiming-pavement</guid>
 			</item>
@@ -87,7 +132,7 @@
 
 &lt;p&gt;And, in the end, I don&amp;#39;t think I missed a whole lot. Though I am dying to get back on meatspace. Right after I finish this book.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 24 Nov 2013 13:33:00 -0800</pubDate>
+				<pubDate>Sun, 24 Nov 2013 05:33:00 -0800</pubDate>
 				<link>http://llkats.github.io/2013/11/24/disconnection</link>
 				<guid isPermaLink="true">http://llkats.github.io/2013/11/24/disconnection</guid>
 			</item>
@@ -106,7 +151,7 @@
 
 &lt;p&gt;These little epiphanies are what keep me coming back to meditation.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 10 Nov 2013 23:36:00 -0800</pubDate>
+				<pubDate>Sun, 10 Nov 2013 15:36:00 -0800</pubDate>
 				<link>http://llkats.github.io/2013/11/10/little-epiphanies</link>
 				<guid isPermaLink="true">http://llkats.github.io/2013/11/10/little-epiphanies</guid>
 			</item>
@@ -119,7 +164,7 @@
 
 &lt;p&gt;Welcome back to Function Literal. Hello world, indeed.&lt;/p&gt;
 </description>
-				<pubDate>Sun, 06 Oct 2013 13:53:00 -0700</pubDate>
+				<pubDate>Sun, 06 Oct 2013 06:53:00 -0700</pubDate>
 				<link>http://llkats.github.io/2013/10/06/new-beginnings-new-blog</link>
 				<guid isPermaLink="true">http://llkats.github.io/2013/10/06/new-beginnings-new-blog</guid>
 			</item>

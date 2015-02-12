@@ -1,6 +1,6 @@
 name: Function Literal
 markdown: redcarpet
-pygments: true
+highlighter: 'pygments'
 paginate: 4
 excerpt_separator: <!-- more -->
 description: Where I talk about code and stuff

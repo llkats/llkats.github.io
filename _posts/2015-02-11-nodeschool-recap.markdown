@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "nodeschool sf recap"
-date:   2015-02-10 13:30:00
+date:   2015-02-11 22:13:00
 categories: thoughts, meetups, node, nodeschool
 moar: true
 ---
