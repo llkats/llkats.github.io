@@ -3,114 +3,113 @@
 	<channel>
 		<title>Function Literal</title>
 		<description>Where I talk about code and stuff</description>
-		<link>http://llkats.github.io</link>
-		<atom:link href="http://llkats.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>hooray for menstrual cycle technology</title>
-				<description>&lt;p&gt;Let&amp;#39;s take a second to cheer for menstrual cycle technology!&lt;/p&gt;
+				<description>&lt;p&gt;Let’s take a second to cheer for menstrual cycle technology!&lt;/p&gt;
 
 &lt;!-- more --&gt;
 
-&lt;p&gt;Today I backed a &amp;quot;smart&amp;quot; menstrual cup on &lt;a href=&quot;https://www.kickstarter.com/projects/700989404/looncup-the-worlds-first-smart-menstrual-cup&quot;&gt;Kickstarter&lt;/a&gt;; the Looncup is a cup with sensors to track volume so the cup can tell when it&amp;#39;s almost full, to keep track of flow over time and even the color(???!) of said fluid. Reusable menstrual cups already seemed futuristic to me, eliminating waste and more safe than tampons, but one that can report its own status is downright magical. Hooray for menstrual cups!&lt;/p&gt;
+&lt;p&gt;Today I backed a “smart” menstrual cup on &lt;a href=&quot;https://www.kickstarter.com/projects/700989404/looncup-the-worlds-first-smart-menstrual-cup&quot;&gt;Kickstarter&lt;/a&gt;; the Looncup is a cup with sensors to track volume so the cup can tell when it’s almost full, to keep track of flow over time and even the color(???!) of said fluid. Reusable menstrual cups already seemed futuristic to me, eliminating waste and more safe than tampons, but one that can report its own status is downright magical. Hooray for menstrual cups!&lt;/p&gt;
 
 &lt;p class=&quot;psst&quot;&gt;I put &quot;smart&quot; in scare quotes because this terminology is still strange to me, whether applied to phones or menstrual cups.&lt;/p&gt;
 
-&lt;p&gt;It felt weird to tweet about it, but I figured they could use the signal boost, and I think it&amp;#39;s important to back projects like these: pragmatic solutions to give people with uteruses more information about their bodies.&lt;/p&gt;
+&lt;p&gt;It felt weird to tweet about it, but I figured they could use the signal boost, and I think it’s important to back projects like these: pragmatic solutions to give people with uteruses more information about their bodies.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;I just backed a smart menstrual cup on Kickstarter, the future is weird and cool but mostly weird &lt;a href=&quot;https://t.co/ocJ5Z55rlL&quot;&gt;https://t.co/ocJ5Z55rlL&lt;/a&gt;&amp;mdash; llkats (@llkats) &lt;a href=&quot;https://twitter.com/llkats/status/651806520506740736&quot;&gt;October 7, 2015&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;I just backed a smart menstrual cup on Kickstarter, the future is weird and cool but mostly weird &lt;a href=&quot;https://t.co/ocJ5Z55rlL&quot;&gt;https://t.co/ocJ5Z55rlL&lt;/a&gt;— llkats (@llkats) &lt;a href=&quot;https://twitter.com/llkats/status/651806520506740736&quot;&gt;October 7, 2015&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I sent a link to the Looncup to a friend, who sent back a link to a basal body temperature monitoring device called &lt;a href=&quot;http://tempdrop.xyz/&quot;&gt;Tempdrop&lt;/a&gt;. A person might use basal temperature information to become or avoid becoming pregnant, but one has to take these readings at the same time every day and make charts and graphs. &lt;/p&gt;
+&lt;p&gt;I sent a link to the Looncup to a friend, who sent back a link to a basal body temperature monitoring device called &lt;a href=&quot;http://tempdrop.xyz/&quot;&gt;Tempdrop&lt;/a&gt;. A person might use basal temperature information to become or avoid becoming pregnant, but one has to take these readings at the same time every day and make charts and graphs.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&amp;quot;It was a pain in the ass to monitor. Not literally.&amp;quot; — &lt;a href=&quot;https://twitter.com/selenamarie&quot;&gt;@selenamarie&lt;/a&gt;&lt;/p&gt;
+  &lt;p&gt;“It was a pain in the ass to monitor. Not literally.” — &lt;a href=&quot;https://twitter.com/selenamarie&quot;&gt;@selenamarie&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Automated devices and apps to collect and process that data makes a tedious but necessary task much more even and reliable. Hooray for automatic basal temperature monitors!&lt;/p&gt;
 
-&lt;p&gt;And on the way home from work, I thought about chocolate for maybe the tenth time today. I checked &lt;a href=&quot;http://www.helloclue.com/&quot;&gt;Clue&lt;/a&gt; to see if it was time for sugar cravings, and found that it might be a little early for the monthly sweets hankering, but not abnormally so. Having tracked my cycle with this app for almost a year now, I find its predictions slightly eerie in their accuracy. It&amp;#39;s certainly far more accurate than trying to average numbers from Google Calendar. But it&amp;#39;s also very comforting to know what&amp;#39;s ahead for the next month. I haven&amp;#39;t been surprised by my cycle for a long time, and that knowledge is empowering. Hooray for period tracking apps!&lt;/p&gt;
+&lt;p&gt;And on the way home from work, I thought about chocolate for maybe the tenth time today. I checked &lt;a href=&quot;http://www.helloclue.com/&quot;&gt;Clue&lt;/a&gt; to see if it was time for sugar cravings, and found that it might be a little early for the monthly sweets hankering, but not abnormally so. Having tracked my cycle with this app for almost a year now, I find its predictions slightly eerie in their accuracy. It’s certainly far more accurate than trying to average numbers from Google Calendar. But it’s also very comforting to know what’s ahead for the next month. I haven’t been surprised by my cycle for a long time, and that knowledge is empowering. Hooray for period tracking apps!&lt;/p&gt;
 
-&lt;p&gt;There are probably a dozen devices and apps out there that I haven&amp;#39;t even heard of, but their impact is the same: these are innovations with the power to really impact people in personal and important ways. I hope people continue to invent and innovate on ways to empower people of all stripes and anatomies with information about their bodies. Hooray for period tech!&lt;/p&gt;
+&lt;p&gt;There are probably a dozen devices and apps out there that I haven’t even heard of, but their impact is the same: these are innovations with the power to really impact people in personal and important ways. I hope people continue to invent and innovate on ways to empower people of all stripes and anatomies with information about their bodies. Hooray for period tech!&lt;/p&gt;
 </description>
 				<pubDate>Wed, 07 Oct 2015 15:13:00 -0700</pubDate>
-				<link>http://llkats.github.io/2015/10/07/hooray-for-menstrual-cycle-tech</link>
-				<guid isPermaLink="true">http://llkats.github.io/2015/10/07/hooray-for-menstrual-cycle-tech</guid>
+				<link>http://localhost:4000/2015/10/07/hooray-for-menstrual-cycle-tech</link>
+				<guid isPermaLink="true">http://localhost:4000/2015/10/07/hooray-for-menstrual-cycle-tech</guid>
 			</item>
 		
 			<item>
 				<title>nodeschool sf recap</title>
-				<description>&lt;p&gt;We had the inaugural event for the San Francisco chapter of NodeSchool this past Saturday. While NodeSchool events have been held in SF before, this event marked the first formal establishment of an SF-based chapter. As with any  event where one teaches others, I ended up learning a lot as well. I was especially impressed with the self-organization of the event and its associated website, the initiative of both seasoned and beginning contributors, and the overall opportunities for involvement with the whole event. &lt;/p&gt;
+				<description>&lt;p&gt;We had the inaugural event for the San Francisco chapter of NodeSchool this past Saturday. While NodeSchool events have been held in SF before, this event marked the first formal establishment of an SF-based chapter. As with any  event where one teaches others, I ended up learning a lot as well. I was especially impressed with the self-organization of the event and its associated website, the initiative of both seasoned and beginning contributors, and the overall opportunities for involvement with the whole event.&lt;/p&gt;
 
 &lt;!-- more --&gt;
 
-&lt;p&gt;I became aware of the San Francisco chapter&amp;#39;s creation when I was tagged in on the initial issue in the central NodeSchool repository. Once we had a date and venue for our first event, we got a dedicated GitHub repository set up. From there, based on my experience with other projects, it seemed pretty easy to start creating issues and making tasks.&lt;/p&gt;
+&lt;p&gt;I became aware of the San Francisco chapter’s creation when I was tagged in on the initial issue in the central NodeSchool repository. Once we had a date and venue for our first event, we got a dedicated GitHub repository set up. From there, based on my experience with other projects, it seemed pretty easy to start creating issues and making tasks.&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s a little difficult to develop a site by committee, so I went ahead and forked an existing NodeSchool site, adapted its text, and pushed it live. It wasn&amp;#39;t perfect by any means, but having something rudimentary meant that I could create tasks and divvy up the effort. Everything from design to site copy to creating social media accounts became things that people could pitch in on when they had the time. In this case, perfection was the enemy of community involvement.&lt;/p&gt;
+&lt;p&gt;It’s a little difficult to develop a site by committee, so I went ahead and forked an existing NodeSchool site, adapted its text, and pushed it live. It wasn’t perfect by any means, but having something rudimentary meant that I could create tasks and divvy up the effort. Everything from design to site copy to creating social media accounts became things that people could pitch in on when they had the time. In this case, perfection was the enemy of community involvement.&lt;/p&gt;
 
-&lt;p&gt;When someone is looking for experience in tech or open source, figuring out exactly &lt;em&gt;how&lt;/em&gt; to pitch in can be really daunting. It&amp;#39;s important for people already in the community to identify ways beginners can get started. Here are just some the tasks I discovered were available:&lt;/p&gt;
+&lt;p&gt;When someone is looking for experience in tech or open source, figuring out exactly &lt;em&gt;how&lt;/em&gt; to pitch in can be really daunting. It’s important for people already in the community to identify ways beginners can get started. Here are just some the tasks I discovered were available:&lt;/p&gt;
 
-&lt;h2&gt;Opportunities for Involvement&lt;/h2&gt;
-
+&lt;h2 id=&quot;opportunities-for-involvement&quot;&gt;Opportunities for Involvement&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;filing and organizing GitHub issues&lt;/li&gt;
-&lt;li&gt;designing the chapter&amp;#39;s home website&lt;/li&gt;
-&lt;li&gt;developing the website&lt;/li&gt;
-&lt;li&gt;writing and editing website copy&lt;/li&gt;
-&lt;li&gt;organizing ticket signups&lt;/li&gt;
-&lt;li&gt;running social media and outreach&lt;/li&gt;
-&lt;li&gt;finding and reserving a venue&lt;/li&gt;
-&lt;li&gt;supervising on the day of the event (coordinating with building management, making announcements, letting people know where the bathrooms are, enforcing the CoC, cleaning up afterwards, etc.)&lt;/li&gt;
-&lt;li&gt;mentoring&lt;/li&gt;
-&lt;li&gt;participating&lt;/li&gt;
-&lt;li&gt;giving feedback&lt;/li&gt;
-&lt;li&gt;improving documentation&lt;/li&gt;
-&lt;li&gt;improving workshopper exercises&lt;/li&gt;
+  &lt;li&gt;filing and organizing GitHub issues&lt;/li&gt;
+  &lt;li&gt;designing the chapter’s home website&lt;/li&gt;
+  &lt;li&gt;developing the website&lt;/li&gt;
+  &lt;li&gt;writing and editing website copy&lt;/li&gt;
+  &lt;li&gt;organizing ticket signups&lt;/li&gt;
+  &lt;li&gt;running social media and outreach&lt;/li&gt;
+  &lt;li&gt;finding and reserving a venue&lt;/li&gt;
+  &lt;li&gt;supervising on the day of the event (coordinating with building management, making announcements, letting people know where the bathrooms are, enforcing the CoC, cleaning up afterwards, etc.)&lt;/li&gt;
+  &lt;li&gt;mentoring&lt;/li&gt;
+  &lt;li&gt;participating&lt;/li&gt;
+  &lt;li&gt;giving feedback&lt;/li&gt;
+  &lt;li&gt;improving documentation&lt;/li&gt;
+  &lt;li&gt;improving workshopper exercises&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Some of these tasks involve knowledge of Git, GitHub, and general (mostly front-end) development knowledge. Others are fairly non-technical. Some of them seem pretty mundane or logistical, but most were mediated through GitHub, and so have some utility in open source practice. All of these tasks were super important to the success of the event, and I can&amp;#39;t recommend getting involved enough.&lt;/p&gt;
+&lt;p&gt;Some of these tasks involve knowledge of Git, GitHub, and general (mostly front-end) development knowledge. Others are fairly non-technical. Some of them seem pretty mundane or logistical, but most were mediated through GitHub, and so have some utility in open source practice. All of these tasks were super important to the success of the event, and I can’t recommend getting involved enough.&lt;/p&gt;
 
-&lt;h2&gt;Soliciting Involvement&lt;/h2&gt;
+&lt;h2 id=&quot;soliciting-involvement&quot;&gt;Soliciting Involvement&lt;/h2&gt;
 
-&lt;p&gt;If you are starting a NodeSchool chapter or running a current one, I&amp;#39;m positive you know some people (who might know some people) who would love to get experience contributing to open source. Prerequisite knowledge might involve some cursory understanding of how the GitHub pages work, and introductory information on GitHub could be included on chapter homepages.&lt;/p&gt;
+&lt;p&gt;If you are starting a NodeSchool chapter or running a current one, I’m positive you know some people (who might know some people) who would love to get experience contributing to open source. Prerequisite knowledge might involve some cursory understanding of how the GitHub pages work, and introductory information on GitHub could be included on chapter homepages.&lt;/p&gt;
 
-&lt;p&gt;During the events themselves, we could gather feedback on pain points with workshoppers, installation, and other technical problems. The day after our event, an attendee emailed me with a link to the pull request she made for the &lt;code&gt;streams-adventure&lt;/code&gt; workshopper, re-wording one of the modules that we both spent an undue amount of time trying to understand. When attendees themselves feel empowered to help improve the learning experience, everyone wins.&lt;/p&gt;
+&lt;p&gt;During the events themselves, we could gather feedback on pain points with workshoppers, installation, and other technical problems. The day after our event, an attendee emailed me with a link to the pull request she made for the &lt;code class=&quot;highlighter-rouge&quot;&gt;streams-adventure&lt;/code&gt; workshopper, re-wording one of the modules that we both spent an undue amount of time trying to understand. When attendees themselves feel empowered to help improve the learning experience, everyone wins.&lt;/p&gt;
 
-&lt;p&gt;All in all, I think it&amp;#39;s really important to highlight ways in which our community can get involved. The more we are clear about the needs of our organizations in a way that beginners can grok without intimidation, the more people we will see get involved. And that&amp;#39;s the best part of all.&lt;/p&gt;
+&lt;p&gt;All in all, I think it’s really important to highlight ways in which our community can get involved. The more we are clear about the needs of our organizations in a way that beginners can grok without intimidation, the more people we will see get involved. And that’s the best part of all.&lt;/p&gt;
 </description>
 				<pubDate>Wed, 11 Feb 2015 14:13:00 -0800</pubDate>
-				<link>http://llkats.github.io/2015/02/11/nodeschool-recap</link>
-				<guid isPermaLink="true">http://llkats.github.io/2015/02/11/nodeschool-recap</guid>
+				<link>http://localhost:4000/2015/02/11/nodeschool-recap</link>
+				<guid isPermaLink="true">http://localhost:4000/2015/02/11/nodeschool-recap</guid>
 			</item>
 		
 			<item>
 				<title>gather the singletons</title>
-				<description>&lt;p&gt;&lt;em&gt;(Editor&amp;#39;s note: This post was actually published Monday, June 30th, 2014, but now I don&amp;#39;t want to change the url. Herp derp Jekyll.)&lt;/em&gt;&lt;/p&gt;
+				<description>&lt;p&gt;&lt;em&gt;(Editor’s note: This post was actually published Monday, June 30th, 2014, but now I don’t want to change the url. Herp derp Jekyll.)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s been two and a half years since I moved to San Francisco, and going to the Google SF office is no big deal anymore.&lt;/p&gt;
+&lt;p&gt;It’s been two and a half years since I moved to San Francisco, and going to the Google SF office is no big deal anymore.&lt;/p&gt;
 
-&lt;p&gt;That was a funny realization -- it used to be such a big deal. But I walked in to a meetup last week feeling like I belonged there. And I did. I&amp;#39;ve visited the Google SF offices a few times; I&amp;#39;ve been to bunches of meetups at this point; I&amp;#39;ve been a professional front end engineer for nearly four years; I can hold my own in a conversation; I have no problem helping myself to free snacks and wine.&lt;/p&gt;
+&lt;p&gt;That was a funny realization – it used to be such a big deal. But I walked in to a meetup last week feeling like I belonged there. And I did. I’ve visited the Google SF offices a few times; I’ve been to bunches of meetups at this point; I’ve been a professional front end engineer for nearly four years; I can hold my own in a conversation; I have no problem helping myself to free snacks and wine.&lt;/p&gt;
 
 &lt;!-- more --&gt;
 
 &lt;p&gt;So I was hanging out with my SO, eating snacks and drinking wine, and I looked across the room at the woman who had ridden the elevator up with us. She was sitting by herself, studying her phone. A singleton to whom no one paid much attention.&lt;/p&gt;
 
-&lt;p&gt;It brought me right back to when I walked in to my first JS meetup in Chicago. I was just a student. I barely knew HTML and CSS, much less Javascript. The entire room was filled with men. I didn&amp;#39;t know what to expect, but I was crippled with doubt and anxiety. I felt like I stuck out like a sore thumb, and as the only woman in the room, I did. This was before I&amp;#39;d learned the confidence to turn to my neighbor and stick out my hand and introduce myself. Long before I realized that I belonged there as much as anyone and could carry that feeling into any situation I went into. Some guys glanced in my direction, but no one said anything to me. I slunk out as soon as the talks were done. I never went back.&lt;/p&gt;
+&lt;p&gt;It brought me right back to when I walked in to my first JS meetup in Chicago. I was just a student. I barely knew HTML and CSS, much less Javascript. The entire room was filled with men. I didn’t know what to expect, but I was crippled with doubt and anxiety. I felt like I stuck out like a sore thumb, and as the only woman in the room, I did. This was before I’d learned the confidence to turn to my neighbor and stick out my hand and introduce myself. Long before I realized that I belonged there as much as anyone and could carry that feeling into any situation I went into. Some guys glanced in my direction, but no one said anything to me. I slunk out as soon as the talks were done. I never went back.&lt;/p&gt;
 
 &lt;p&gt;In that moment of hindsight, I realized what I should do. I got up without thinking too much about it, walked right over to her, and introduced myself. I asked her if she wanted to sit with us. She said yes without hesitation.&lt;/p&gt;
 
-&lt;p&gt;It takes a huge measure of doing to walk into a new place and go up to any random stranger and just start talking. Especially if you&amp;#39;re a student, a newbie, a rando who&amp;#39;s never proved herself or written anything of consequence. (At least, that&amp;#39;s what you might think about yourself.) It&amp;#39;s enough to go to that strange place and take a snack or two and then just sit by oneself in the corner. That&amp;#39;s more than enough for one adventure. &lt;/p&gt;
+&lt;p&gt;It takes a huge measure of doing to walk into a new place and go up to any random stranger and just start talking. Especially if you’re a student, a newbie, a rando who’s never proved herself or written anything of consequence. (At least, that’s what you might think about yourself.) It’s enough to go to that strange place and take a snack or two and then just sit by oneself in the corner. That’s more than enough for one adventure.&lt;/p&gt;
 
-&lt;p&gt;Offering someone your name, inviting someone to join you -- it&amp;#39;s more than a courtesy. It&amp;#39;s a direct introduction into what feels like a very closed and very exclusive world.&lt;/p&gt;
+&lt;p&gt;Offering someone your name, inviting someone to join you – it’s more than a courtesy. It’s a direct introduction into what feels like a very closed and very exclusive world.&lt;/p&gt;
 
 &lt;p&gt;A few more people joined us; friends of my SO, and their friends. When I saw another woman sit by herself, I went and gathered her into our group too. Both of those singletons lit up when I spoke to them; there was relief and excitement. They wanted to talk JS and meetups and living in the Bay Area, all the normal things one talks about at a meetup. They just needed a handhold, an opening. A single introduction. The feeling like they belonged. It was a simple gesture for me, but I think it really made a difference in both of their experiences that night.&lt;/p&gt;
 
-&lt;p&gt;I think it&amp;#39;s important to remember the immense amount of courage someone needs in order to come to a meetup by his or herself. I think it&amp;#39;s important for established members in a programming community to make the next step easier: to welcome these singletons into our small groups, kickstart their senses of confidence, and teach them that they, too, belong.&lt;/p&gt;
+&lt;p&gt;I think it’s important to remember the immense amount of courage someone needs in order to come to a meetup by his or herself. I think it’s important for established members in a programming community to make the next step easier: to welcome these singletons into our small groups, kickstart their senses of confidence, and teach them that they, too, belong.&lt;/p&gt;
 </description>
 				<pubDate>Fri, 10 Jan 2014 06:50:00 -0800</pubDate>
-				<link>http://llkats.github.io/2014/01/10/gather-the-singletons</link>
-				<guid isPermaLink="true">http://llkats.github.io/2014/01/10/gather-the-singletons</guid>
+				<link>http://localhost:4000/2014/01/10/gather-the-singletons</link>
+				<guid isPermaLink="true">http://localhost:4000/2014/01/10/gather-the-singletons</guid>
 			</item>
 		
 			<item>
@@ -119,21 +118,21 @@
 
 &lt;!-- more --&gt;
 
-&lt;p&gt;Getting used to the power of taking a lane can take awhile, though. It&amp;#39;s scary, in a dense city like San Francisco, to feel safe on the road, even in a bike lane. There&amp;#39;s a good reason for that -- four bicyclists were killed in 2013, and over a dozen pedestrians. Sometimes it feels like the cars are out of control, that their drivers don&amp;#39;t have a sense of the immense power and responsibility they have when they&amp;#39;re behind the wheel.&lt;/p&gt;
+&lt;p&gt;Getting used to the power of taking a lane can take awhile, though. It’s scary, in a dense city like San Francisco, to feel safe on the road, even in a bike lane. There’s a good reason for that – four bicyclists were killed in 2013, and over a dozen pedestrians. Sometimes it feels like the cars are out of control, that their drivers don’t have a sense of the immense power and responsibility they have when they’re behind the wheel.&lt;/p&gt;
 
-&lt;p&gt;Events like Sunday Streets, where entire neighborhoods are shut down to cars for a day and people and rollerbladers and cyclists and razor scooters and rollerskaters take over the pavement, highlight the stark reality that cities are designed for cars, not people. It no longer seems obvious to me that of course we should have enormous swaths of space solely dedicated to the transit of vehicles, especially ones that have such lethal capacity. I don&amp;#39;t know what the solution is -- I&amp;#39;m not an urban planner or city designer -- but I am fascinated by the conversation.&lt;/p&gt;
+&lt;p&gt;Events like Sunday Streets, where entire neighborhoods are shut down to cars for a day and people and rollerbladers and cyclists and razor scooters and rollerskaters take over the pavement, highlight the stark reality that cities are designed for cars, not people. It no longer seems obvious to me that of course we should have enormous swaths of space solely dedicated to the transit of vehicles, especially ones that have such lethal capacity. I don’t know what the solution is – I’m not an urban planner or city designer – but I am fascinated by the conversation.&lt;/p&gt;
 
-&lt;p&gt;All I know is that when I take the lane on my bike, and drivers respect my space, I feel like I&amp;#39;m fully participating in the city. I feel in control of my transportation, and that feeling very empowering. I can take myself where I need to go, and don&amp;#39;t depend on anyone to do it for me. I &lt;strong&gt;do&lt;/strong&gt; depend on an infrastructure and community and rules of the road which supports me and other like me, a cyclist on a bike in a river of cars. Similarly, cars don&amp;#39;t exist in a vacuum: drivers depend upon society to maintain roads and stoplights, and trust that others will stop at a red light when they&amp;#39;re supposed to. Maybe being on a bike just makes that sense of interdependency all the more clear.&lt;/p&gt;
+&lt;p&gt;All I know is that when I take the lane on my bike, and drivers respect my space, I feel like I’m fully participating in the city. I feel in control of my transportation, and that feeling very empowering. I can take myself where I need to go, and don’t depend on anyone to do it for me. I &lt;strong&gt;do&lt;/strong&gt; depend on an infrastructure and community and rules of the road which supports me and other like me, a cyclist on a bike in a river of cars. Similarly, cars don’t exist in a vacuum: drivers depend upon society to maintain roads and stoplights, and trust that others will stop at a red light when they’re supposed to. Maybe being on a bike just makes that sense of interdependency all the more clear.&lt;/p&gt;
 
-&lt;p&gt;Over time, my comfort with taking a lane has grown. I get spooked every now and then by the news or by a close call with an carelessly opened door or a car that doesn&amp;#39;t signal its right turn, and when that happens, I take a break for a little bit. But I still seem to get back on the saddle again eventually. I think that confidence in riding is a powerful ally because I think it communicates to drivers that I won&amp;#39;t just pitch over or swerve into them. That I know what I&amp;#39;m doing, and deserve the same respect as any other vehicle.&lt;/p&gt;
+&lt;p&gt;Over time, my comfort with taking a lane has grown. I get spooked every now and then by the news or by a close call with an carelessly opened door or a car that doesn’t signal its right turn, and when that happens, I take a break for a little bit. But I still seem to get back on the saddle again eventually. I think that confidence in riding is a powerful ally because I think it communicates to drivers that I won’t just pitch over or swerve into them. That I know what I’m doing, and deserve the same respect as any other vehicle.&lt;/p&gt;
 
-&lt;p&gt;The other night, I signalled a left turn at a four-way stop at which I had the right-of-way, and all the drivers waited patiently as I made it through the intersection. I was absorbed in the ride, with making the turn correctly and visibly, with the sound of tire on pavement, with the lane into which I was turning. I stayed in the center of the lane at the next intersection, so I could head straight when the light turned green, and at that red light, I realized that I hadn&amp;#39;t even thought about whether I should take the lane or not.&lt;/p&gt;
+&lt;p&gt;The other night, I signalled a left turn at a four-way stop at which I had the right-of-way, and all the drivers waited patiently as I made it through the intersection. I was absorbed in the ride, with making the turn correctly and visibly, with the sound of tire on pavement, with the lane into which I was turning. I stayed in the center of the lane at the next intersection, so I could head straight when the light turned green, and at that red light, I realized that I hadn’t even thought about whether I should take the lane or not.&lt;/p&gt;
 
-&lt;p&gt;Moreover, I wasn&amp;#39;t afraid. I was just there, on the pavement, claiming my space.&lt;/p&gt;
+&lt;p&gt;Moreover, I wasn’t afraid. I was just there, on the pavement, claiming my space.&lt;/p&gt;
 </description>
 				<pubDate>Fri, 10 Jan 2014 06:50:00 -0800</pubDate>
-				<link>http://llkats.github.io/2014/01/10/claiming-pavement</link>
-				<guid isPermaLink="true">http://llkats.github.io/2014/01/10/claiming-pavement</guid>
+				<link>http://localhost:4000/2014/01/10/claiming-pavement</link>
+				<guid isPermaLink="true">http://localhost:4000/2014/01/10/claiming-pavement</guid>
 			</item>
 		
 			<item>
@@ -142,51 +141,51 @@
 
 &lt;!-- more --&gt;
 
-&lt;h3&gt;Things I Missed&lt;/h3&gt;
+&lt;h3 id=&quot;things-i-missed&quot;&gt;Things I Missed&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;chat.meatspac.es&quot;&gt;chat.meatspac.es&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;easy distractions while riding Muni or waiting&lt;/li&gt;
-&lt;li&gt;the instant gratification of reading new tweets/emails/instagrams/&amp;amp;c.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;chat.meatspac.es&quot;&gt;chat.meatspac.es&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;easy distractions while riding Muni or waiting&lt;/li&gt;
+  &lt;li&gt;the instant gratification of reading new tweets/emails/instagrams/&amp;amp;c.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3&gt;Things I Didn&amp;#39;t Miss&lt;/h3&gt;
+&lt;h3 id=&quot;things-i-didnt-miss&quot;&gt;Things I Didn’t Miss&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;constant notification assaulting my attention&lt;/li&gt;
-&lt;li&gt;the latest Twitter drama du jour&lt;/li&gt;
-&lt;li&gt;looking up a random fact RIGHT THIS SECOND&lt;/li&gt;
-&lt;li&gt;not having any time to read&lt;/li&gt;
+  &lt;li&gt;constant notification assaulting my attention&lt;/li&gt;
+  &lt;li&gt;the latest Twitter drama du jour&lt;/li&gt;
+  &lt;li&gt;looking up a random fact RIGHT THIS SECOND&lt;/li&gt;
+  &lt;li&gt;not having any time to read&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;After a huge sprint at work, the internet was feeling more and more like an empty reward; I was depending on it too much for some sort of emotional connection and support. It was good to realize this and step away. I think I&amp;#39;ll be reducing the number of notifications I receive on my phone and computer, which felt like the healthiest part of the break.&lt;/p&gt;
+&lt;p&gt;After a huge sprint at work, the internet was feeling more and more like an empty reward; I was depending on it too much for some sort of emotional connection and support. It was good to realize this and step away. I think I’ll be reducing the number of notifications I receive on my phone and computer, which felt like the healthiest part of the break.&lt;/p&gt;
 
 &lt;p&gt;Instead of sinking time into mindless clicking, I read books, worked on a couple projects, had lunch with my aunt, and sat zazen twice. I even worked through some of a code book (learning the ins and outs of &lt;a href=&quot;https://leanpub.com/marionette-gentle-introduction&quot;&gt;Marionette&lt;/a&gt; for work) and was kept on track by the empty pie slice symbol of the disconnected Wifi in my taskbar.&lt;/p&gt;
 
-&lt;p&gt;And, in the end, I don&amp;#39;t think I missed a whole lot. Though I am dying to get back on meatspace. Right after I finish this book.&lt;/p&gt;
+&lt;p&gt;And, in the end, I don’t think I missed a whole lot. Though I am dying to get back on meatspace. Right after I finish this book.&lt;/p&gt;
 </description>
 				<pubDate>Sun, 24 Nov 2013 05:33:00 -0800</pubDate>
-				<link>http://llkats.github.io/2013/11/24/disconnection</link>
-				<guid isPermaLink="true">http://llkats.github.io/2013/11/24/disconnection</guid>
+				<link>http://localhost:4000/2013/11/24/disconnection</link>
+				<guid isPermaLink="true">http://localhost:4000/2013/11/24/disconnection</guid>
 			</item>
 		
 			<item>
 				<title>little epiphanies</title>
-				<description>&lt;p&gt;So I was meditating on Saturday morning at the &lt;a href=&quot;http://www.sfzc.org/&quot; target=&quot;_blank&quot;&gt;SF Zen Center&lt;/a&gt;, and it was a tough session because I haven&amp;#39;t been practicing as consistently in the past few weeks as I had been over the summer and early fall, so my mind kept wandering and I kept not noticing it take off.&lt;/p&gt;
+				<description>&lt;p&gt;So I was meditating on Saturday morning at the &lt;a href=&quot;http://www.sfzc.org/&quot; target=&quot;_blank&quot;&gt;SF Zen Center&lt;/a&gt;, and it was a tough session because I haven’t been practicing as consistently in the past few weeks as I had been over the summer and early fall, so my mind kept wandering and I kept not noticing it take off.&lt;/p&gt;
 
 &lt;!-- more --&gt;
 
-&lt;p&gt;I was getting lost in my thoughts (it didn&amp;#39;t help that I was seated in the hallway outside the zendo, since I was too shy to enter the zendo late (but not too late)) and was surprised at how silent it is in the zendo compared to the hall, since there is the outside door opening and closing often, and voices echoing through the halls, and the sounds of meals being prepared and squishy sandal footsteps. There is so much to do lately, and I really needed to change the catbox and vaccuum at home, not to mention clean off my home desk, finish the book I&amp;#39;m reading so I can read the others that just came in the mail, continue making progress on the sprint at work, practice drawing, call my parents, ride my bike, work on my side projects, cure cancer, save the world, work out more, and maybe sleep, idk.&lt;/p&gt;
+&lt;p&gt;I was getting lost in my thoughts (it didn’t help that I was seated in the hallway outside the zendo, since I was too shy to enter the zendo late (but not too late)) and was surprised at how silent it is in the zendo compared to the hall, since there is the outside door opening and closing often, and voices echoing through the halls, and the sounds of meals being prepared and squishy sandal footsteps. There is so much to do lately, and I really needed to change the catbox and vaccuum at home, not to mention clean off my home desk, finish the book I’m reading so I can read the others that just came in the mail, continue making progress on the sprint at work, practice drawing, call my parents, ride my bike, work on my side projects, cure cancer, save the world, work out more, and maybe sleep, idk.&lt;/p&gt;
 
-&lt;p&gt;The thought arose: I&amp;#39;m here, so I should do what I came here to do. It was a moment of clarity in the midst of that squinting, tensing whirlwind of needs and to-dos. I&amp;#39;d gotten up early, showered, dressed, and hurried to the Center so I could sit on a cushion with dozens of other people and practice meditation. All the other things, obligations and wants, they could wait. I knew what they were; they&amp;#39;d be waiting when I was done. There is time enough for all of them.&lt;/p&gt;
+&lt;p&gt;The thought arose: I’m here, so I should do what I came here to do. It was a moment of clarity in the midst of that squinting, tensing whirlwind of needs and to-dos. I’d gotten up early, showered, dressed, and hurried to the Center so I could sit on a cushion with dozens of other people and practice meditation. All the other things, obligations and wants, they could wait. I knew what they were; they’d be waiting when I was done. There is time enough for all of them.&lt;/p&gt;
 
-&lt;p&gt;It was a good thought. It wasn&amp;#39;t like I became enlightened or attained nirvana -- I still became distracted and my thoughts wandered back and away for the rest of the session. But it was a bit easier to come back to my breath and focus. Deliberation in action. Mindfulness.&lt;/p&gt;
+&lt;p&gt;It was a good thought. It wasn’t like I became enlightened or attained nirvana – I still became distracted and my thoughts wandered back and away for the rest of the session. But it was a bit easier to come back to my breath and focus. Deliberation in action. Mindfulness.&lt;/p&gt;
 
 &lt;p&gt;These little epiphanies are what keep me coming back to meditation.&lt;/p&gt;
 </description>
 				<pubDate>Sun, 10 Nov 2013 15:36:00 -0800</pubDate>
-				<link>http://llkats.github.io/2013/11/10/little-epiphanies</link>
-				<guid isPermaLink="true">http://llkats.github.io/2013/11/10/little-epiphanies</guid>
+				<link>http://localhost:4000/2013/11/10/little-epiphanies</link>
+				<guid isPermaLink="true">http://localhost:4000/2013/11/10/little-epiphanies</guid>
 			</item>
 		
 			<item>
@@ -196,10 +195,11 @@
 &lt;p&gt;The hard part is writing the blog.&lt;/p&gt;
 
 &lt;p&gt;Welcome back to Function Literal. Hello world, indeed.&lt;/p&gt;
+
 </description>
 				<pubDate>Sun, 06 Oct 2013 06:53:00 -0700</pubDate>
-				<link>http://llkats.github.io/2013/10/06/new-beginnings-new-blog</link>
-				<guid isPermaLink="true">http://llkats.github.io/2013/10/06/new-beginnings-new-blog</guid>
+				<link>http://localhost:4000/2013/10/06/new-beginnings-new-blog</link>
+				<guid isPermaLink="true">http://localhost:4000/2013/10/06/new-beginnings-new-blog</guid>
 			</item>
 		
 	</channel>
