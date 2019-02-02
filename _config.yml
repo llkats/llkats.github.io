@@ -1,6 +1,8 @@
 name: Function Literal
-markdown: redcarpet
-highlighter: 'pygments'
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+gems: [jekyll-paginate]
 paginate: 4
 excerpt_separator: <!-- more -->
 description: Where I talk about code and stuff
